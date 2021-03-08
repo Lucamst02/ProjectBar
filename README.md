@@ -35,7 +35,7 @@ Per la creazione del sito web abbiamo seguito i seguenti passaggi:
 - Vai nel sito ufficiale di WordPress Italia e scarica l’ultima versione di WordPress cliccando sul pulsante “Download“
 - Dopo aver terminato il download sposta il file appena salvato all’ interno della cartella “HTDOCS” creata da XAMPP nel tuo hard   disk che trovi nel seguente percorso (se hai lasciato tutte le impostazioni di default di XAMPP): C:/xampp/htdocs/
 - Dopo aver spostato il file, estrai l’ archivio e dovresti avere una cartella chiamata “wordpress” come nell’ immagini sottostante. Rinomina quella cartella con il nome del tuo sito, ad esempio “il-mio-primo-sito-web” e cancella l’ archivio salvato in precendenza, oppure conservalo per una futura installazione di un altro sito
-- posizione cartella htdocs xampp windows
+(posizione cartella htdocs xampp windows)
 - All’interno della cartella vedrai diversi file che servono a WordPress per poter funzionare correttamente.
 NOTA BENE: Segna il nome del database pechè a breve dovrai inserirne il nome in una specifica pagina.
 
