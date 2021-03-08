@@ -39,6 +39,9 @@ Per la creazione del sito web abbiamo seguito i seguenti passaggi:
 - All’interno della cartella vedrai diversi file che servono a WordPress per poter funzionare correttamente.
 NOTA BENE: Segna il nome del database pechè a breve dovrai inserirne il nome in una specifica pagina.
 
-ATTENZIONE! Cancellando uno qualsiasi di quei file rischierai di non fare funzionare correttamente WordPress in locale.
+ATTENZIONE! Cancellando uno qualsiasi di quei file rischierai di non fare funzionare correttamente WordPress in locale
+
+- Avvia XAMPP che avete installato in precedenza. Ti troverai davanti una finestra con varie voci.
+  Quelle che interessano a noi sono “Apache“, ovvero il server virtuale e “MySQL” che serve per avviare il database collegato al server. Clicca sui pulsanti Start di tutte e due   le voci come nell’ immagine sottostante.
 
 
