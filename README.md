@@ -74,13 +74,13 @@ E’ giunta l’ora di creare il database di WordPress su phpmyadmin, uno strume
 
     Ti si aprirà una pagina dove ti verrà riepilogato il necessario per proseguire con l’ installazione di WordPress. Clicca sul pulsante “Iniziamo!” per proseguire.
 
-  - A questo punto ti verranno chiesti alcuni dati che dovrai compilare come nell’ immagine sottostante:
+  - A questo punto ti verranno chiesti alcuni dati che dovrai compilare
 
-    installazione wordpress
+Installazione wordpress
 
-    In NOME DATABASE assicurati di aver inserito il nome del database creato in precedenza. Per proseguire clicca su “INVIA“.
+    - In NOME DATABASE assicurati di aver inserito il nome del database creato in precedenza. Per proseguire clicca su “INVIA“.
 
-  Se tutto è corretto ti apparirà una pagina in cui ti verrà detto che i dati inseriti sono corretti e potrai quindi procedere con l’ installazione di WordPress! In caso di errore clicca su riprova e controlla di aver inserito correttamente tutti i dati.
+    Se tutto è corretto ti apparirà una pagina in cui ti verrà detto che i dati inseriti sono corretti e potrai quindi procedere con l’ installazione di WordPress! In caso di errore clicca su riprova e controlla di aver inserito correttamente tutti i dati.
 
   - Fare il login e procedere con la creazione
   - Registrarsi ora su Altervista, scegliere il proprio dominio e seguire tutte le procedure che verranno spiegate dal servizio, dopodichè esportare il database in locale e caricarlo sul servizio phpmyadmin di altervista
