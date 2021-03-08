@@ -39,7 +39,7 @@ Per la creazione del sito web abbiamo seguito i seguenti passaggi:
 - All’interno della cartella vedrai diversi file che servono a WordPress per poter funzionare correttamente.
 NOTA BENE: Segna il nome del database pechè a breve dovrai inserirne il nome in una specifica pagina.
 
-ATTENZIONE! Cancellando uno qualsiasi di quei file rischierai di non fare funzionare correttamente WordPress in locale
+  ATTENZIONE! Cancellando uno qualsiasi di quei file rischierai di non fare funzionare correttamente WordPress in locale
 
 - Avvia XAMPP che avete installato in precedenza. Ti troverai davanti una finestra con varie voci.
 
@@ -53,8 +53,26 @@ E’ giunta l’ora di creare il database di WordPress su phpmyadmin, uno strume
 
   - Creare database wordpress su phpmyadmin
 
-  Nella sezione database troverai il form “Crea un nuovo database” dove dovrete inserire il nome del vostro sito senza spazi.
+    Nella sezione database troverai il form “Crea un nuovo database” dove dovrete inserire il nome del vostro sito senza spazi.
 
   - Dopodichè clicca su “CREA” e comparirà un messaggio di conferma per l’ avvenuta creazione del database.
 
+    NOTA BENE: Segnati il nome del database pechè a breve dovrai inserirlo in una pagina.
+    
+  - apriamo una nuova finestra del browser e nella barra degli indirizzi scrivi quanto segue: 
+  
+    localhost/nome-sito/wp-admin/install.php (nome-sito deve essere sostituito con il nome che avete assegnato alla cartella di WordPress rinominata in precedenza).
 
+    Se avrai fatto tutto correttamente dovrebbe comparirti una pagina uguale a quella sottostante. Clicca su “Crea un file di configurazione” per proseguire.
+
+  - creare file wp-config wordpress
+
+    Ti si aprirà una pagina dove ti verrà riepilogato il necessario per proseguire con l’ installazione di WordPress. Clicca sul pulsante “Iniziamo!” per proseguire.
+
+  - A questo punto ti verranno chiesti alcuni dati che dovrai compilare come nell’ immagine sottostante:
+
+    installazione wordpress
+
+    In NOME DATABASE assicurati di aver inserito il nome del database creato in precedenza. Per proseguire clicca su “INVIA“.
+
+Se tutto è corretto ti apparirà una pagina in cui ti verrà detto che i dati inseriti sono corretti e potrai quindi procedere con l’ installazione di WordPress! In caso di errore clicca su riprova e controlla di aver inserito correttamente tutti i dati.
