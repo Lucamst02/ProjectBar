@@ -22,4 +22,4 @@ Questi si possono racchiudere in:
 - Economia (Analisi dei costi e affluenza settimanale)
 - Planimetria Bar
 - Sito web ([projectbarvr.altervista.org](http://projectbarvr.altervista.org "projectbarvr.altervista.org"))
-[![ProjectBar](ProjectBar "ProjectBar")](https://github.com/Lucamst02/ProjectBar/blob/main/ProjectBar.png "ProjectBar")
+![](images/filename ProjectBar.png)
