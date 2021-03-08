@@ -42,6 +42,7 @@ NOTA BENE: Segna il nome del database pechè a breve dovrai inserirne il nome in
 ATTENZIONE! Cancellando uno qualsiasi di quei file rischierai di non fare funzionare correttamente WordPress in locale
 
 - Avvia XAMPP che avete installato in precedenza. Ti troverai davanti una finestra con varie voci.
+
   Quelle che interessano a noi sono “Apache“, ovvero il server virtuale e “MySQL” che serve per avviare il database collegato al server. Clicca sui pulsanti Start di tutte e due   le voci come nell’ immagine sottostante.
 
 
