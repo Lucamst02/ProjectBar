@@ -45,4 +45,16 @@ ATTENZIONE! Cancellando uno qualsiasi di quei file rischierai di non fare funzio
 
   Quelle che interessano a noi sono “Apache“, ovvero il server virtuale e “MySQL” che serve per avviare il database collegato al server. Clicca sui pulsanti Start di tutte e due   le voci come nell’ immagine sottostante.
 
+E’ giunta l’ora di creare il database di WordPress su phpmyadmin, uno strumento utilizzato dalla maggior parte dei servizi di hosting, che permette di creare database in uno solo click.
+
+  - Per prima cosa apri il browser preferito e nella barra degli indirizzi scrivi il seguente indirizzo: localhost/phpmyadmin/
+
+    Se XAMPP funziona correttamente ti si aprirà una pagina come nell’immagine sottostante, nel quale dovrai assicurarti che la lingua settata sia in italiano, poi successivamente clicca nella voce database.
+
+  - Creare database wordpress su phpmyadmin
+
+  Nella sezione database troverai il form “Crea un nuovo database” dove dovrete inserire il nome del vostro sito senza spazi.
+
+  - Dopodichè clicca su “CREA” e comparirà un messaggio di conferma per l’ avvenuta creazione del database.
+
 
