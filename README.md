@@ -3,6 +3,9 @@
 
 ------------
 
+![ProjectBar](https://user-images.githubusercontent.com/80251224/110308522-85518680-8000-11eb-80dd-de31063174ad.png)
+
+------------
 #### Descrizione
 Il nostro gruppo ha ideato e sviluppato la creazione di un bar analizzando e tenendo in considerazione i seguenti punti: 
 - Economia (costi)
@@ -22,4 +25,4 @@ Questi si possono racchiudere in:
 - Economia (Analisi dei costi e affluenza settimanale)
 - Planimetria Bar
 - Sito web ([projectbarvr.altervista.org](http://projectbarvr.altervista.org "projectbarvr.altervista.org"))
-![ProjectBar](https://user-images.githubusercontent.com/80251224/110308522-85518680-8000-11eb-80dd-de31063174ad.png)
+
